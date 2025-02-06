@@ -23,9 +23,7 @@ You can deploy your own bot or use our streamlined version: [Click Here](https:/
 - Control access with a list of authorized Telegram users
 - Keep track of your OpenAI API spending
 
-<p align="center">
-  <img src="https://github.com/yesbhautik/Master-AI-BOT/blob/main/static/help_group.gif?raw=true" style="width: 40%; border-radius: 20px"/>
-</p>
+
 
 ---
 
